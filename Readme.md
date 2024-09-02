@@ -2,7 +2,3 @@
 
 
 ##  Local development
-
-## Talking with Arafat
-
-## this line is added at the new branch 
